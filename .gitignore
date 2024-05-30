@@ -1,6 +1,8 @@
 node_modules
 .env
-controllers
+config
+bin
+
 Middleware
 migrations
 models
