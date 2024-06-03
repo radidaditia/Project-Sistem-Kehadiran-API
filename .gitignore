@@ -8,8 +8,8 @@ migrations
 models
 node_modules
 public
-
+routes
 seeders
-app.js
+
 package-lock.json
 package.json
