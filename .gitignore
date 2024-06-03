@@ -3,8 +3,8 @@ node_modules
 controllers
 config
 bin
+middleware
 
-migrations
 models
 node_modules
 public
