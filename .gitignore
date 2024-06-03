@@ -4,8 +4,8 @@ controllers
 config
 bin
 middleware
+migrations
 
-models
 node_modules
 public
 routes
